@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+streamlit
+feature-engine
+xgboost
+joblib
+seaborn
+wordcloud
+Ipython
+altair==4.1.0
